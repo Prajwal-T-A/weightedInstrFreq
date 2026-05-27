@@ -1,0 +1,8 @@
+/Users/prajwal_t_a/Desktop/Coding/WeightedInstrFreq/build/CMakeFiles/intrinsics_gen.dir
+/Users/prajwal_t_a/Desktop/Coding/WeightedInstrFreq/build/CMakeFiles/vt_gen.dir
+/Users/prajwal_t_a/Desktop/Coding/WeightedInstrFreq/build/CMakeFiles/omp_gen.dir
+/Users/prajwal_t_a/Desktop/Coding/WeightedInstrFreq/build/CMakeFiles/acc_gen.dir
+/Users/prajwal_t_a/Desktop/Coding/WeightedInstrFreq/build/CMakeFiles/target_parser_gen.dir
+/Users/prajwal_t_a/Desktop/Coding/WeightedInstrFreq/build/CMakeFiles/WeightedInstrFreqPass.dir
+/Users/prajwal_t_a/Desktop/Coding/WeightedInstrFreq/build/CMakeFiles/edit_cache.dir
+/Users/prajwal_t_a/Desktop/Coding/WeightedInstrFreq/build/CMakeFiles/rebuild_cache.dir

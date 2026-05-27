@@ -1,0 +1,42 @@
+
+=================================================
+  Weighted Instruction Frequency Analysis
+=================================================
+Function: simple_math
+Total Instructions: 6
+
+Instruction Frequency:
+  ---------------------------------------------
+  Instruction               Count       Cost
+  ---------------------------------------------
+  ret                           1          1
+  add                           2          2
+  sub                           1          1
+  mul                           2          4
+  ---------------------------------------------
+
+Total Weighted Cost: 8
+
+Most Expensive Instruction Type: mul (cost: 4)
+=================================================
+
+
+=================================================
+  Weighted Instruction Frequency Analysis
+=================================================
+Function: just_add
+Total Instructions: 4
+
+Instruction Frequency:
+  ---------------------------------------------
+  Instruction               Count       Cost
+  ---------------------------------------------
+  ret                           1          1
+  add                           3          3
+  ---------------------------------------------
+
+Total Weighted Cost: 4
+
+Most Expensive Instruction Type: add (cost: 3)
+=================================================
+

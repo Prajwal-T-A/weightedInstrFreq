@@ -1,0 +1,45 @@
+
+=================================================
+  Weighted Instruction Frequency Analysis
+=================================================
+Function: factorial
+Total Instructions: 7
+
+Instruction Frequency:
+  ---------------------------------------------
+  Instruction               Count       Cost
+  ---------------------------------------------
+  ret                           2          2
+  br                            1          2
+  sub                           1          1
+  mul                           1          2
+  icmp                          1          1
+  call                          1          5
+  ---------------------------------------------
+
+Total Weighted Cost: 13
+
+Most Expensive Instruction Type: call (cost: 5)
+=================================================
+
+
+=================================================
+  Weighted Instruction Frequency Analysis
+=================================================
+Function: max_of_three
+Total Instructions: 9
+
+Instruction Frequency:
+  ---------------------------------------------
+  Instruction               Count       Cost
+  ---------------------------------------------
+  ret                           3          3
+  br                            3          6
+  icmp                          3          3
+  ---------------------------------------------
+
+Total Weighted Cost: 12
+
+Most Expensive Instruction Type: br (cost: 6)
+=================================================
+
