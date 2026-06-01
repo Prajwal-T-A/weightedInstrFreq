@@ -1,0 +1,65 @@
+
+=================================================
+  Weighted Instruction Frequency Analysis
+=================================================
+Function: dot_product
+Total Instructions: 6
+
+Instruction Frequency:
+  ---------------------------------------------
+  Instruction               Count       Cost
+  ---------------------------------------------
+  ret                           1          1
+  fadd                          2          2
+  fmul                          3          6
+  ---------------------------------------------
+
+Total Weighted Cost: 9
+
+Most Expensive Instruction Type: fmul (cost: 6)
+=================================================
+
+
+=================================================
+  Weighted Instruction Frequency Analysis
+=================================================
+Function: normalize_score
+Total Instructions: 7
+
+Instruction Frequency:
+  ---------------------------------------------
+  Instruction               Count       Cost
+  ---------------------------------------------
+  ret                           1          1
+  fsub                          3          3
+  fdiv                          1          4
+  fcmp                          1          1
+  select                        1          1
+  ---------------------------------------------
+
+Total Weighted Cost: 10
+
+Most Expensive Instruction Type: fdiv (cost: 4)
+=================================================
+
+
+=================================================
+  Weighted Instruction Frequency Analysis
+=================================================
+Function: float_to_int_round
+Total Instructions: 3
+
+Instruction Frequency:
+  ---------------------------------------------
+  Instruction               Count       Cost
+  ---------------------------------------------
+  ret                           1          1
+  fadd                          1          1
+  fptosi                        1          2
+  ---------------------------------------------
+
+Total Weighted Cost: 4
+
+Most Expensive Instruction Type: fptosi (cost: 2)
+=================================================
+

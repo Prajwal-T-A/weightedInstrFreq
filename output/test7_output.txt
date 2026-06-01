@@ -1,0 +1,53 @@
+
+=================================================
+  Weighted Instruction Frequency Analysis
+=================================================
+Function: array_sum_normalized
+Total Instructions: 17
+
+Instruction Frequency:
+  ---------------------------------------------
+  Instruction               Count       Cost
+  ---------------------------------------------
+  ret                           1          1
+  br                            2          4
+  add                           2          2
+  sdiv                          1          4
+  alloca                        1          2
+  load                          3          9
+  store                         2          6
+  getelementptr                 1          1
+  icmp                          2          2
+  phi                           1          1
+  call                          1          5
+  ---------------------------------------------
+
+Total Weighted Cost: 37
+
+Most Expensive Instruction Type: load (cost: 9)
+=================================================
+
+
+=================================================
+  Weighted Instruction Frequency Analysis
+=================================================
+Function: integer_divide_series
+Total Instructions: 7
+
+Instruction Frequency:
+  ---------------------------------------------
+  Instruction               Count       Cost
+  ---------------------------------------------
+  ret                           1          1
+  add                           1          1
+  udiv                          1          4
+  sdiv                          2          8
+  urem                          1          4
+  srem                          1          4
+  ---------------------------------------------
+
+Total Weighted Cost: 22
+
+Most Expensive Instruction Type: sdiv (cost: 8)
+=================================================
+
