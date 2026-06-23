@@ -1,0 +1,29 @@
+{
+  "name": "weightedinstrfreq",
+  "version": "1.0.0",
+  "description": "> **Assignment 17** — Compiler Design   > An LLVM FunctionPass that counts instructions, assigns weighted costs, and reports the most expensive instruction type per function.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prajwal-T-A/weightedInstrFreq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Prajwal-T-A/weightedInstrFreq/issues"
+  },
+  "homepage": "https://github.com/Prajwal-T-A/weightedInstrFreq#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "multer": "^2.1.1"
+  }
+}
